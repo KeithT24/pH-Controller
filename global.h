@@ -1,7 +1,7 @@
 #define WIFI_CHANNEL 1
 
-char ssid[] = "Fios-8sVRw_EXT";
-char pass[] = "slue79argo35ego";                   
+char ssid[] = ;
+char pass[] = ;                   
 byte homeassistant[] = { 192,168,1,185 };
 const char* mqtt_server = "192.168.1.185";
 
